@@ -25,4 +25,4 @@ __version__ = "3.1.2"
 from .middleware.text import Text  # exposing for setting global font attrs
 from .wrapper import PdfWrapper
 
-__all__ = ["PdfWrapper", "Text"]
+__all__ = ["PdfWrapper", "Text"] #
